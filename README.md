@@ -1,3 +1,5 @@
+# Apache 2.0 Fluent Assertion Fork -- READ ONLY
+
 <a href="https://www.fluentassertions.com"><img src="docs/assets/images/FA_Partner_Logo.png" style="width:500px"/></a>
 
 # Extension methods to fluently assert the outcome of .NET tests
